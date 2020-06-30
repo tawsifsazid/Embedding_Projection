@@ -1,4 +1,4 @@
-# Embedding_Projection
+# WORD_Embedding_Visualization
 Data Set Link: https://www.mdpi.com/2306-5729/3/2/15/htm 
 
 Trained an Embedding Layer with Bengali Words to make a neural network understand semantic-relationships between words in a sentence. 
